@@ -162,7 +162,7 @@ const Services = () => {
                       <a href="tel:+912269470420">
                         <Button className="btn-cta gap-2">
                           <Phone className="w-4 h-4" />
-                          Call +91 22 6947 0420
+                          Call +91 99206 62103
                         </Button>
                       </a>
                     </div>
@@ -201,7 +201,7 @@ const Services = () => {
                 <Phone className="w-6 h-6" />
                 <span className="flex flex-col items-start">
                   <span className="text-xs font-normal opacity-90">Call Now – 24×7</span>
-                  <span className="font-bold">+91 22 6947 0420</span>
+                  <span className="font-bold">+91 99206 62103</span>
                 </span>
               </Button>
             </a>

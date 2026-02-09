@@ -50,7 +50,7 @@ const Header = () => {
             <a href="tel:+912269470420" className="hidden sm:flex">
               <Button className="btn-cta gap-2">
                 <Phone className="w-4 h-4" />
-                <span className="hidden lg:inline">+91 22 6947 0420</span>
+                <span className="hidden lg:inline">+91 99206 62103</span>
                 <span className="lg:hidden">Call Now</span>
               </Button>
             </a>
@@ -87,7 +87,7 @@ const Header = () => {
               <a href="tel:+912269470420" className="mt-2">
                 <Button className="btn-cta w-full gap-2">
                   <Phone className="w-4 h-4" />
-                  Call +91 22 6947 0420
+                  Call +91 99206 62103
                 </Button>
               </a>
             </div>

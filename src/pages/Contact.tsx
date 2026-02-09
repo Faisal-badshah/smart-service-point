@@ -42,10 +42,10 @@ const Contact = () => {
   return (
     <>
       <Helmet>
-        <title>Contact Us | Smart Service - Siemens & Bosch Repair Mumbai | Call +91 22 6947 0420</title>
+        <title>Contact Us | Smart Service - Siemens & Bosch Repair Mumbai | Call +91 99206 62103</title>
         <meta 
           name="description" 
-          content="Contact Smart Service for Siemens & Bosch appliance repair in Mumbai. Call +91 22 6947 0420 for 24x7 doorstep service. Located near Chakala Metro Station. Fast response guaranteed!" 
+          content="Contact Smart Service for Siemens & Bosch appliance repair in Mumbai. Call +91 99206 62103 for 24x7 doorstep service. Located near Chakala Metro Station. Fast response guaranteed!" 
         />
         <meta name="keywords" content="Siemens service centre near me, Bosch service centre Mumbai, appliance repair contact, washing machine repair contact Mumbai" />
         <link rel="canonical" href="https://homecareappliances.in/contact" />
@@ -95,7 +95,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="font-semibold text-lg">Toll-Free Number</p>
-                      <p className="text-2xl font-bold text-cta">+91 22 6947 0420</p>
+                      <p className="text-2xl font-bold text-cta">+91 99206 62103</p>
                       <p className="text-sm text-muted-foreground">Click to call now – 24×7 Service</p>
                     </div>
                   </a>
@@ -274,7 +274,7 @@ const Contact = () => {
                   <p className="mt-4 text-sm text-center text-muted-foreground">
                     Or call us directly at{' '}
                     <a href="tel:+912269470420" className="text-cta font-bold hover:underline">
-                      +91 22 6947 0420
+                      +91 99206 62103
                     </a>
                   </p>
                 </div>

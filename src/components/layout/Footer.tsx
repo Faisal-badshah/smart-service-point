@@ -72,7 +72,7 @@ const Footer = () => {
                 <div>
                   <p className="text-sm font-medium">Toll-Free</p>
                   <a href="tel:+912269470420" className="text-sm opacity-80 hover:opacity-100">
-                    +91 22 6947 0420
+                    +91 99206 62103
                   </a>
                 </div>
               </li>

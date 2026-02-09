@@ -40,7 +40,7 @@ const Hero = () => {
               <a href="tel:+912269470420">
                 <Button size="lg" className="btn-cta text-lg px-8 py-6 w-full sm:w-auto">
                   <Phone className="w-5 h-5" />
-                  Call +91 22 6947 0420
+                  Call +91 99206 62103
                 </Button>
               </a>
               <a href="#services">
