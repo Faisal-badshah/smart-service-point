@@ -17,21 +17,32 @@ const Contact = () => {
   });
   const [isSubmitting, setIsSubmitting] = useState(false);
 
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
-    setIsSubmitting(true);
+const handleSubmit = (e: React.FormEvent) => {
+  e.preventDefault();
+  setIsSubmitting(true);
 
-    // Simulate form submission
-    await new Promise((resolve) => setTimeout(resolve, 1000));
+  const message = `New Service Request
 
-    toast({
-      title: 'Request Submitted!',
-      description: 'We will call you back within 30 minutes.',
-    });
+Name: ${formData.name}
+Phone: ${formData.phone}
+Service: ${formData.service}
+Issue: ${formData.message || "Not provided"}
 
-    setFormData({ name: '', phone: '', service: '', message: '' });
-    setIsSubmitting(false);
-  };
+Source: Website Form`;
+
+  // WhatsApp number (country code + number, no +)
+  const whatsappNumber = "919920662103";
+
+  const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
+
+  // Open WhatsApp
+  window.open(whatsappUrl, "_blank");
+
+  // Redirect to Thank You page
+  setTimeout(() => {
+    window.location.href = "/thank-you";
+  }, 500);
+};
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
