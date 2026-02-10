@@ -159,7 +159,7 @@ const Services = () => {
                     </ul>
 
                     <div className="flex flex-wrap gap-3">
-                      <a href="tel:+912269470420">
+                      <a href="tel:+91 99206 62103">
                         <Button className="btn-cta gap-2">
                           <Phone className="w-4 h-4" />
                           Call +91 99206 62103
@@ -196,7 +196,7 @@ const Services = () => {
             <p className="text-muted-foreground mb-8 max-w-2xl mx-auto">
               Call us now for fast, reliable repair service. Our expert technicians are available 24×7!
             </p>
-            <a href="tel:+912269470420">
+            <a href="tel:+91 99206 62103">
               <Button size="lg" className="btn-cta text-lg px-10 py-7 rounded-xl gap-3">
                 <Phone className="w-6 h-6" />
                 <span className="flex flex-col items-start">

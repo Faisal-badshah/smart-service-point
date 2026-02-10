@@ -66,7 +66,7 @@ const ServicesPreview = () => {
               </div>
               <h3 className="font-semibold text-lg mb-2">{service.title}</h3>
               <p className="text-muted-foreground text-sm mb-4">{service.description}</p>
-              <a href="tel:+912269470420" className="inline-flex items-center text-sm font-medium text-primary hover:underline gap-1">
+              <a href="tel:+91 99206 62103" className="inline-flex items-center text-sm font-medium text-primary hover:underline gap-1">
                 <Phone className="w-4 h-4" />
                 Book Now
               </a>

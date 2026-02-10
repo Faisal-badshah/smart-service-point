@@ -3,7 +3,7 @@ import { Phone } from 'lucide-react';
 const CallButton = () => {
   return (
     <a
-      href="tel:+912269470420"
+      href="tel:+91 99206 62103"
       className="fixed bottom-6 right-4 md:hidden z-50"
       aria-label="Call Now"
     >

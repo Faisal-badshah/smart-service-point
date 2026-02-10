@@ -23,7 +23,7 @@ const CTA = () => {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:+912269470420">
+              <a href="tel:+91 99206 62103">
                 <Button size="lg" className="btn-cta text-lg px-8 py-6 w-full sm:w-auto">
                   <Phone className="w-5 h-5" />
                   Call +91 99206 62103

@@ -95,7 +95,7 @@ Source: Website Form`;
                 <div className="space-y-6">
                   {/* Phone - Primary CTA */}
                   <a 
-                    href="tel:+912269470420"
+                    href="tel:+91 99206 62103"
                     className="flex items-start gap-4 p-5 rounded-xl bg-cta/10 hover:bg-cta/20 transition-colors group border-2 border-cta/30"
                   >
                     <div className="w-14 h-14 rounded-xl flex items-center justify-center flex-shrink-0 group-hover:scale-110 transition-transform"
@@ -283,7 +283,7 @@ Source: Website Form`;
 
                   <p className="mt-4 text-sm text-center text-muted-foreground">
                     Or call us directly at{' '}
-                    <a href="tel:+912269470420" className="text-cta font-bold hover:underline">
+                    <a href="tel:+91 99206 62103" className="text-cta font-bold hover:underline">
                       +91 99206 62103
                     </a>
                   </p>

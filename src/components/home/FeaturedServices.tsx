@@ -120,7 +120,7 @@ const FeaturedServices = () => {
               </ul>
 
               {/* CTA */}
-              <a href="tel:+912269470420" className="block">
+              <a href="tel:+91 99206 62103" className="block">
                 <Button className="btn-cta-pulse w-full gap-2 text-lg py-6">
                   <Phone className="w-5 h-5" />
                   Call Now – Get Quote
