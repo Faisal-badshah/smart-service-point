@@ -105,7 +105,7 @@ Source: Website Form`;
                     </div>
                     <div>
                       <p className="font-semibold text-lg">Toll-Free Number</p>
-                      <p className="text-2xl font-bold text-cta">+91 99206 62103</p>
+                      <p className="text-2xl font-bold text-cta">18001021416</p>
                       <p className="text-sm text-muted-foreground">Click to call now – 24×7 Service</p>
                     </div>
                   </a>

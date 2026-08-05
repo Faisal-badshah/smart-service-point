@@ -71,8 +71,8 @@ const Footer = () => {
                 <Phone className="w-5 h-5 mt-0.5 text-accent" />
                 <div>
                   <p className="text-sm font-medium">Toll-Free</p>
-                  <a href="tel:+91 99206 62103" className="text-sm opacity-80 hover:opacity-100">
-                    +91 99206 62103
+                  <a href="tel:18001021416" className="text-sm opacity-80 hover:opacity-100">
+                    18001021416
                   </a>
                 </div>
               </li>
