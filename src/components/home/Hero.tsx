@@ -37,10 +37,10 @@ const Hero = () => {
 
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start mb-10">
-              <a href="tel:+91 99206 62103">
+              <a href="tel:18001021416">
                 <Button size="lg" className="btn-cta text-lg px-8 py-6 w-full sm:w-auto">
                   <Phone className="w-5 h-5" />
-                  Call +91 99206 62103
+                  Call 18001021416
                 </Button>
               </a>
               <a href="#services">
