@@ -52,10 +52,10 @@ Source: Website Form`;
   return (
     <>
       <Helmet>
-        <title>Contact Us | Smart Service - Siemens & Bosch Repair Mumbai | Call +91 99206 62103</title>
+        <title>Contact Us | Smart Service - Siemens & Bosch Repair Mumbai | Call +91 18001021416</title>
         <meta 
           name="description" 
-          content="Contact Smart Service for Siemens & Bosch appliance repair in Mumbai. Call +91 99206 62103 for 24x7 doorstep service. Located near Chakala Metro Station. Fast response guaranteed!" 
+          content="Contact Smart Service for Siemens & Bosch appliance repair in Mumbai. Call +91 18001021416 for 24x7 doorstep service. Located near Chakala Metro Station. Fast response guaranteed!" 
         />
         <meta name="keywords" content="Siemens service centre near me, Bosch service centre Mumbai, appliance repair contact, washing machine repair contact Mumbai" />
         <link rel="canonical" href="https://homecareappliances.in/contact" />
@@ -95,7 +95,7 @@ Source: Website Form`;
                 <div className="space-y-6">
                   {/* Phone - Primary CTA */}
                   <a 
-                    href="tel:+91 99206 62103"
+                    href="tel:+91 18001021416"
                     className="flex items-start gap-4 p-5 rounded-xl bg-cta/10 hover:bg-cta/20 transition-colors group border-2 border-cta/30"
                   >
                     <div className="w-14 h-14 rounded-xl flex items-center justify-center flex-shrink-0 group-hover:scale-110 transition-transform"
@@ -283,8 +283,8 @@ Source: Website Form`;
 
                   <p className="mt-4 text-sm text-center text-muted-foreground">
                     Or call us directly at{' '}
-                    <a href="tel:+91 99206 62103" className="text-cta font-bold hover:underline">
-                      +91 99206 62103
+                    <a href="tel:+91 18001021416" className="text-cta font-bold hover:underline">
+                      +91 
                     </a>
                   </p>
                 </div>

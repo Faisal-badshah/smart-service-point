@@ -54,7 +54,7 @@ const ThankYou = () => {
               Need urgent assistance?
             </p>
 
-            <a href="tel:+919920662103">
+            <a href="tel:18001021416">
               <Button className="btn-cta h-12 text-lg">
                 <Phone className="w-5 h-5 mr-2" />
                 Call Now – 24×7 Support
